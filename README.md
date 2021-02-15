@@ -5,25 +5,16 @@
   I'm Mayro, a front-end developer in Brazil.
 </p>
 
-### About me
-
 - I'm currently working on something cool;
 - I'm formed in systems analysis and development.
 - Thriller movies, dramatic serials and action anime are my favorites;
 - I like good music and a good coffee.
+- My current stack study is: Javascript, Typescript, React, NextJS, NodeJS, Strapi and Postgres
+- I'm also interested in Flutter and Python
 
-### Where to find me:
-
+Find me:
 [Linkedin](https://www.linkedin.com/in/mayro-myller-89945a14b/) and
 [Gmail](mailto:deehmyller11@gmail.com)
-
-## My current stack study
-
-- Javascript, Typescript, React, NextJS, NodeJS, Strapi and Postgres
-
-**I'm interested**
-
-- Flutter and Python
 
 ## Aaaah
 See some of my repositories may have something that can help you. Write a review and send a pull request.
