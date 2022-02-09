@@ -1,14 +1,12 @@
-## Hi there, I'm Mayro - Mmdev 👋
+## Hi there, I'm Mayro Myller 👋
 
 ### I'm a front-end developer in Brazil!
 
-- 💼 I'm currently working on something cool;
-- 🎓 I'm formed in systems analysis and development.
-- 🎬 Thriller movies, dramatic serials and action anime are my favorites;
-- ☕️ I like good music and a good coffee.
-- 📚 My current stack study is: Javascript with Typescript, React, NextJS and NodeJS
-- 🎯 I'm also interested in Design Patterns Python, Blockchain, Web 3.0 and Smart Contracts
-- 🌱 I’m currently learning everything 🤣
+Currently, I work as a freelancer both in Brazil and abroad, developing for agencies.
+
+I work on front-end solutions with modern Javascript libraries with ReactJS, NextJS. I also love researching and learning about Typescript, UI/UX, software architecture, best practices, and other subjects.
+
+Call me to chat, it will be a pleasure to exchange experiences and ideas. Thanks!
 
 ### Connect with me:
 
@@ -23,5 +21,5 @@ See some of my repositories may have something that can help you. Write a review
 
 <br/>
 
-> 💬 "Fortune favours the brave."
-> ― Ryan Holiday
+> 💬 "Every hero has a code."
+> ― Westworld
