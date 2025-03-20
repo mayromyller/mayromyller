@@ -1,10 +1,15 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## Hi there, I'm Mayro Myller 👋
 
 ### I'm a software developer in Brazil!
 
-Currently, I work as a mobile developer both in Brazil and abroad, developing for agencies.
+I'm a software developer in Brazil!
+Currently, I work as a mobile developer in Fidelizi.
 
-I work on front-end solutions with modern Javascript libraries with ReactJS and React Native. I also love researching and learning about Typescript, UI/UX, software architecture, best practices, and other subjects.
+I work on front-end solutions with modern Javascript/Typescript libraries with ReactJS and React Native. I also love researching and learning about UI/UX, software architecture, best practices, and other subjects.
 
 Call me to chat, it will be a pleasure to exchange experiences and ideas. Thanks!
 
